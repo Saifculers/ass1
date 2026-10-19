@@ -11,5 +11,6 @@ else if (Mark >= 50)
 }
 else
 {
-    Console.WriteLine("The student didnt pass the exam");
+    Console.WriteLine("The student didnt pass the exam"); 
 }
+// Saif Marabeh
